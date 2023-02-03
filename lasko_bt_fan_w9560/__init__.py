@@ -1,1 +1,1 @@
-"""The Lasko BT Fan component."""
+"""The Vogel motion mount component."""
