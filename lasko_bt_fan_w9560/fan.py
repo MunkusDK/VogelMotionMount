@@ -1,5 +1,5 @@
 """
-Adds support for the Lasko BT Fan W9560.
+Adds support for the Vogel Motion Mount.
 """
 import logging
 from datetime import timedelta
