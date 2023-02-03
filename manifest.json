@@ -1,1 +1,10 @@
-.
+{
+  "domain": "Vogel Motion Mount",
+  "name": "Vogel Motion Mount",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["@MunkusDK"],
+  "requirements": [
+    "pygatt[GATTTOOL]==4.0.5"
+  ]
+}
